@@ -16,3 +16,5 @@ pillow
 python-dotenv
 xai_sdk
 pdf2image
+python-dotenv
+pypdf
